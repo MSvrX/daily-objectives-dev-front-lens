@@ -7,7 +7,7 @@
   - [x] Installation (Discord)
   - [x] Installation navigateur (Developper Edition)
   - [x] Création et configuration Mail pro
-  - [x] Création et configuration Twitter pro
+  - [] Création et configuration Twitter pro
 - [x] Découverte du Terminal :
   - [x] Comprendre la différence entre une interface en ligne de commande et une interface graphique
   - [x] Savoir ce qu'est un Shell, quelle différence entre BASH et ZSH
