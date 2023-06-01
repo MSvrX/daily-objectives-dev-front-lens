@@ -6,7 +6,7 @@
   - [x] Mise à jour OS (Linux, Windows, Mac)
   - [x] Installation (Discord)
   - [x] Installation navigateur (Developper Edition)
-  - [x] Création et configuration Mail pro
+  - [] Création et configuration Mail pro
   - [] Création et configuration Twitter pro
 - [x] Découverte du Terminal :
   - [x] Comprendre la différence entre une interface en ligne de commande et une interface graphique
